@@ -1,0 +1,149 @@
+[
+  {
+    "timestamp": "2026-02-01T15:49:35",
+    "plant_name": "Basil",
+    "action": "care review",
+    "notes": "Reviewed care plan. Light: 6+ hours of sunlight daily, Watering: Keep soil evenly moist, water when top feels dry",
+    "next_due": null
+  },
+  {
+    "timestamp": "2026-02-01T15:50:21",
+    "plant_name": "Apple",
+    "action": "care review",
+    "notes": "Reviewed care plan. Light: Full sun (at least 6-8 hours daily), Watering: Deep watering weekly, more during fruit development",
+    "next_due": null
+  },
+  {
+    "timestamp": "2026-02-01T15:50:50",
+    "plant_name": "Apple",
+    "action": "care review",
+    "notes": "Reviewed care plan. Light: Full sun (at least 6-8 hours daily), Watering: Deep watering weekly, more during fruit development",
+    "next_due": null
+  },
+  {
+    "timestamp": "2026-02-01T15:50:52",
+    "plant_name": "Rose",
+    "action": "care review",
+    "notes": "Reviewed care plan. Light: Full sun (6+ hours daily), Watering: Water deeply 2-3 times per week, keep soil moist but not soggy",
+    "next_due": null
+  },
+  {
+    "timestamp": "2026-02-01T15:51:13",
+    "plant_name": "Rose",
+    "action": "care review",
+    "notes": "Reviewed care plan. Light: Full sun (6+ hours daily), Watering: Water deeply 2-3 times per week, keep soil moist but not soggy",
+    "next_due": null
+  },
+  {
+    "timestamp": "2026-02-01T15:51:49",
+    "plant_name": "Rose",
+    "action": "care review",
+    "notes": "Reviewed care plan. Light: Full sun (6+ hours daily), Watering: Water deeply 2-3 times per week, keep soil moist but not soggy",
+    "next_due": null
+  },
+  {
+    "timestamp": "2026-02-01T15:53:39",
+    "plant_name": "Rose",
+    "action": "care review",
+    "notes": "Reviewed care plan. Light: Full sun (6+ hours daily), Watering: Water deeply 2-3 times per week, keep soil moist but not soggy",
+    "next_due": null
+  },
+  {
+    "timestamp": "2026-02-01T15:53:43",
+    "plant_name": "Rose",
+    "action": "diagnosis (sample)",
+    "notes": "Rose buds with aphids | Symptoms: Rose buds covered with small green insects clustered on buds and stems; sticky residue; distorted growth.",
+    "next_due": null
+  },
+  {
+    "timestamp": "2026-02-01T15:54:04",
+    "plant_name": "Rose",
+    "action": "care review",
+    "notes": "Reviewed care plan. Light: Full sun (6+ hours daily), Watering: Water deeply 2-3 times per week, keep soil moist but not soggy",
+    "next_due": null
+  },
+  {
+    "timestamp": "2026-02-01T15:54:51",
+    "plant_name": "Rose",
+    "action": "care review",
+    "notes": "Reviewed care plan. Light: Full sun (6+ hours daily), Watering: Water deeply 2-3 times per week, keep soil moist but not soggy",
+    "next_due": null
+  },
+  {
+    "timestamp": "2026-02-01T15:56:15",
+    "plant_name": "Rose",
+    "action": "care review",
+    "notes": "Reviewed care plan. Light: Full sun (6+ hours daily), Watering: Water deeply 2-3 times per week, keep soil moist but not soggy",
+    "next_due": null
+  },
+  {
+    "timestamp": "2026-02-01T15:56:21",
+    "plant_name": "Orange tree",
+    "action": "diagnosis (sample)",
+    "notes": "Orange leaves turning yellow | Symptoms: Citrus leaves turning pale yellow, sometimes with greener veins; overall chlorosis; slow growth.",
+    "next_due": null
+  },
+  {
+    "timestamp": "2026-02-01T15:57:36",
+    "plant_name": "Rose",
+    "action": "care review",
+    "notes": "Reviewed care plan. Light: Full sun (6+ hours daily), Watering: Water deeply 2-3 times per week, keep soil moist but not soggy",
+    "next_due": null
+  },
+  {
+    "timestamp": "2026-02-01T15:57:43",
+    "plant_name": "Orange tree ",
+    "action": "fertilized nitrogen",
+    "notes": "Used nitrogen fertilizer",
+    "next_due": "2026-03-01T15:57:43"
+  },
+  {
+    "timestamp": "2026-02-01T16:06:36",
+    "plant_name": "Rose",
+    "action": "care review",
+    "notes": "Reviewed care plan. Light: Full sun (6+ hours daily), Watering: Water deeply 2-3 times per week, keep soil moist but not soggy",
+    "next_due": null
+  },
+  {
+    "timestamp": "2026-02-01T16:07:31",
+    "plant_name": "Basil",
+    "action": "care review",
+    "notes": "Reviewed care plan. Light: 6+ hours of sunlight daily, Watering: Keep soil evenly moist, water when top feels dry",
+    "next_due": null
+  },
+  {
+    "timestamp": "2026-02-01T16:09:25",
+    "plant_name": "Basil",
+    "action": "care review",
+    "notes": "Reviewed care plan. Light: 6+ hours of sunlight daily, Watering: Keep soil evenly moist, water when top feels dry",
+    "next_due": null
+  },
+  {
+    "timestamp": "2026-02-01T16:11:22",
+    "plant_name": "Basil",
+    "action": "care review",
+    "notes": "Reviewed care plan. Light: 6+ hours of sunlight daily, Watering: Keep soil evenly moist, water when top feels dry",
+    "next_due": null
+  },
+  {
+    "timestamp": "2026-02-01T16:12:51",
+    "plant_name": "Basil",
+    "action": "care review",
+    "notes": "Reviewed care plan. Light: 6+ hours of sunlight daily, Watering: Keep soil evenly moist, water when top feels dry",
+    "next_due": null
+  },
+  {
+    "timestamp": "2026-02-01T16:14:23",
+    "plant_name": "Basil",
+    "action": "care review",
+    "notes": "Reviewed care plan. Light: 6+ hours of sunlight daily, Watering: Keep soil evenly moist, water when top feels dry",
+    "next_due": null
+  },
+  {
+    "timestamp": "2026-02-01T16:14:30",
+    "plant_name": "Orange tree ",
+    "action": "fertilized nitrogen",
+    "notes": "used nitrogen fertilizer",
+    "next_due": "2026-03-01T16:14:30"
+  }
+]
